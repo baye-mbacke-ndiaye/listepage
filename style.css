@@ -1,0 +1,107 @@
+#ugb{
+    border: 4px inset rgb(130, 130, 210);
+    padding: 3px;
+    background-color: rgb(225, 144, 147);
+    text-align: center;
+}
+#Zig{
+    border: 5px double rgb(21, 33, 114);
+    padding: 3px; 
+    background-color: rgb(184, 232, 94);
+    text-align: center;   
+}
+#ucad{
+    border: 5px double rgb(100, 110, 177);
+    padding: 3px; 
+    background-color: rgb(184, 232, 94);
+    text-align: center;    
+}
+#vir{
+    border: 6px dotted rgb(18, 27, 25);
+    padding: 3px;
+    background-color: rgb(74, 195, 203);
+    text-align: center;
+}
+
+img{
+    width: 50px;
+   
+}
+.menu{
+    border:2px dashed rgb(231, 7, 7);
+    width: 70%;
+    padding: 7px;
+    margin: 5px;
+    text-align: start;
+}
+.menu h3{
+    text-align: center;
+}
+img{
+    float: right;
+    width: 100px;
+    height: 110px;
+}
+iframe{
+    margin-top: 20px;
+    
+}
+nav{
+    border: 1px solid black;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 50%;
+    background-color: rgb(135, 145, 190);
+    color: white;
+    margin-top: 250px;
+
+}
+li:hover{
+    background-color: rgb(177, 75, 75);
+    color: red;
+}
+body{
+    background-color: ;
+}
+a{
+    text-decoration: none;
+    color: rgb(3, 52, 95);
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    background-color: antiquewhite;
+    color: blueviolet;
+    border: 7px solid rgb(66, 219, 135);
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.partie1{
+    text-align: justify;
+}
+p{
+    text-align: justify;
+    text-shadow: 0 0 0 rgb(217, 23, 23);
+}
+.back{
+    margin-top: 20px;
+    width: 50px;
+    background-color: chartreuse;
+    color: white;
+    padding: 10px;
+   display: flex ;
+   justify-content: center;
+   align-items: center;
+   font-weight: bold;
+   border-radius: 7px;
+   box-shadow: 0 0 10px 5px brown;
+}
+.back:hover{
+    background-color: black;
+}
+.back a:hover{
+    color: white;
+}
