@@ -86,7 +86,7 @@ p{
     text-align: justify;
     text-shadow: 0 0 0 rgb(217, 23, 23);
 }
-.back{
+/* .back{
     margin-top: 20px;
     width: 50px;
     background-color: chartreuse;
@@ -98,7 +98,7 @@ p{
    font-weight: bold;
    border-radius: 7px;
    box-shadow: 0 0 10px 5px brown;
-}
+} */
 .back:hover{
     background-color: black;
 }
